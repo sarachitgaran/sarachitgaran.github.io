@@ -16,10 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🔍 Research Interests
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I started my position as ptoject assistant in the depar5tment of biophysics and pathophysiology in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
- 
+# 🤓 Research Experiences
+
+# 📖 Educations
+- *2018.09 - 2022.09*, Master of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
+- *2014.09 - 2018.09*, Bachelor of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran.
+
+  
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
 
 # 📝 Publications 
 
@@ -40,11 +48,11 @@ redirect_from:
 # 🎖 Honors and Awards
 
 
-# 📖 Educations
-- *2018.09 - 2022.09*, Master of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
-- *2014.09 - 2018.09*, Bachelor of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran.
 
-# 💬 Invited Talks
+# 💬 Talks
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+  
+# 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I started my position as ptoject assistant in the depar5tment of biophysics and pathophysiology in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+ 
+
