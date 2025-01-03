@@ -1,4 +1,4 @@
-
+<!-- This repo houses the files for my academic webpage -->
 <h1 align="center">
 AcadHomepage
 </h1>
