@@ -33,8 +33,9 @@ redirect_from:
 
 # 📝 Publications 
 Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
