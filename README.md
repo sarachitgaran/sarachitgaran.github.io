@@ -1,5 +1,5 @@
 <!-- This repo houses the files for my academic webpage -->
-<h1 align="center">
+<h1 align="left">
 AcadHomepage
 </h1>
 
