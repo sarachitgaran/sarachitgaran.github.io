@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔍 Research Interests
-
+-Transcription Regulation
+-Cancer Genomics
+-Spatial Transcriptomic
+-Machine Learning
 # 🧬 Research Experiences
 
  
@@ -38,12 +41,7 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 <div class='paper-box-text' markdown="1">-->
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 
@@ -54,6 +52,6 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 <!-- Add slides -->
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the department of Biophysics and Pathophysiology in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the group of Biophysics and Pathophysiology in department of biomedical science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
