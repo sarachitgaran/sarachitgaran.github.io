@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔍 Research Interests
--Transcription Regulation
--Cancer Genomics
--Spatial Transcriptomic
--Machine Learning
+- Transcription Regulation
+- Cancer Genomics
+- Spatial Transcriptomic
+- Machine Learning
 # 🧬 Research Experiences
 
  
