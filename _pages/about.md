@@ -47,7 +47,9 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 
 
 # 🎖 Honors and Awards
-
+- *2021*, First place in "Thesis Presentation" National Contest, Shahid Beheshti University, Tehran, Iran.
+- *2018* Awarded from the National Organization of Educational Testing for the 23nd National Olympiad in the Field of Molecular Biology (Ranked 15th in National and 1st in Sectional Competition), Tehran, Iran.
+- *2017* Awarded from the National Organization of Educational Testing for the 22nd National Olympiad in the Field of Molecular Biology (Ranked 13th in National and 3rd in Sectional Competition), Tehran, Iran.
 
 
 # 💬 Talks
