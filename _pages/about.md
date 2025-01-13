@@ -23,7 +23,9 @@ redirect_from:
 - Machine Learning
 
 # 🧬 Research Experiences
-
+- *2024.09 - 2025.03*,
+- *2023.09 - 2024.02*,
+- *2019.01 - 2022.09*,
  
 # 💻 Teaching Experiences
 
