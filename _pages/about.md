@@ -32,8 +32,8 @@ redirect_from:
 
   
 # 📖 Educations
-- *2018.09 - 2022.09*, Master of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
-- *2014.09 - 2018.09*, Bachelor of Science, Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran.
+- *2018.09 - 2022.09*, Master of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
+- *2014.09 - 2018.09*, Bachelor of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran.
 
 
 
