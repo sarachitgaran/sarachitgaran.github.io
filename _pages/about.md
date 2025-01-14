@@ -26,15 +26,10 @@ redirect_from:
 - *2024.09 - 2025.03*,
 - *2023.09 - 2024.02*,
 - *2019.01 - 2022.09*,
- 
-# 💻 Teaching Experiences
-
-
-  
+   
 # 📖 Educations
 - *2018.09 - 2022.09*, Master of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
 - *2014.09 - 2018.09*, Bachelor of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran.
-
 
 
 # 📝 Publications 
@@ -44,6 +39,7 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 <div class='paper-box-text' markdown="1">-->
 
 
+# 💻 Teaching Experiences
 
 
 # 🎖 Honors and Awards
@@ -54,6 +50,7 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 
 # 💬 Talks
 <!-- Add slides -->
+
 # 🧑‍🏫 Reference
 Reference will be available upon request.
 
