@@ -51,12 +51,15 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 # 💬 Talks
 <!-- Add slides -->
 
+
+# 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the group of Biophysics and Pathophysiology in department of biomedical science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+ 
+
 # 🧑‍🏫 Reference
 Reference will be available upon request.
 
 
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the group of Biophysics and Pathophysiology in department of biomedical science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
- 
+
 
