@@ -23,9 +23,9 @@ redirect_from:
 - Machine Learning
 
 # 🧬 Research Experiences
-- *2024.09 - 2025.03*,
-- *2023.09 - 2024.02*,
-- *2019.01 - 2022.09*,
+- *2024.09 - 2025.03*, UCP2 expression in pro- and anti-inflammatory macrophages derived from different tissues in mouse models
+- *2023.09 - 2024.02*, 
+- *2019.01 - 2022.09*, Searching for Cancer Biomarker using RNA-Seq Analysis
    
 # 📖 Educations
 - *2018.09 - 2022.09*, Master of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
