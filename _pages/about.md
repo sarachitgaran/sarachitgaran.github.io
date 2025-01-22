@@ -25,7 +25,7 @@ redirect_from:
 # 🧬 Research Experiences
 - *2024.09 - 2025.03*, UCP2 expression in pro- and anti-inflammatory macrophages derived from different tissues in mouse models
 - *2023.09 - 2024.02*, Bulk RNA-Seq Analysis of CGE (Common Garden Experiments)
-- *2019.01 - 2022.09*, Searching for Cancer Biomarker using  Bulk RNA-Seq Analysis
+- *2019.01 - 2022.09*, Searching for Cancer Biomarker using  Transcriptomic Analysis
    
 # 📖 Educations
 - *2018.09 - 2022.09*, Master of Science in Cell and Molecualr Biology, Ferdowsi University of Mashhad, Mashhad, Iran. 
@@ -34,11 +34,11 @@ redirect_from:
 
 # 📝 Publications 
 ## Journals
--**Chitgaran S** , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
+-**Chitgaran S** , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA _RP11-109D20.2_: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
 
--Barzegar _et al._ Aberrant expression of SPRING1 is involved in the progression of B-cell acute lymphoblastic leukemia. (Under review)
+-Barzegar _et al._ Aberrant expression of _SPRING1_ is involved in the progression of B-cell acute lymphoblastic leukemia. (Under review)
 
--Barzegar _et al._ Identification of a Novel CSRP2 Transcript via Alternative Splicing Analysis in Acute Myeloid Leukemia: A case report. (Pending submission)
+-Barzegar _et al._ Identification of a Novel _CSRP2_ Transcript _via_ Alternative Splicing Analysis in Acute Myeloid Leukemia: A case report. (Pending submission)
 
 ## Posters
 -Long non-coding RNA _RP11-109D20.2_ as a novel biomarker in colorectal cancer, **Chitgaran, S.** _et al._, 6th International Conference on Personalized Medicine and Functional Genomics (PMFG2022), Sidra Medicine, Doha, Qatar
