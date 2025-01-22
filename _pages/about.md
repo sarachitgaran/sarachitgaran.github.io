@@ -55,23 +55,15 @@ redirect_from:
 
 # 💻 Teaching Experiences
 
-Bulk RNA-seq Data Analysis Workshops        				                              2021-2023
-Teaching RNA-seq analysis in a workshop, ACECR,  Mashhad, Iran.
+Bulk RNA-seq Data Analysis Workshops, ACECR,  Mashhad, Iran. 2021-2023
 
-R programming language                          					   	                         2020-2023
-Teaching R programming language to students at Ferdowsi University of Mashhad, Mashhad, Iran.
+R programming language, Ferdowsi University of Mashhad, Mashhad, Iran. 2020-2023
 
-Mendeley Workshop                             				        	  	                   2018-2019
-Teaching Mendeley Reference Management Software to my peer master students in “Research Methodology and Experimental Design” class
+Mendeley Workshop, Ferdowsi University of Mashhad, Mashhad, Iran. 2018-2019                           				        	  	                  
 
-Olympiad Tutor                                              						               2018-2019
-Teaching biostatistics to students at Ferdowsi University of Mashhad, Mashhad, Iran.
+[Arithland]((http://arith.land/en)) referee in high school competitions and teaching mathematics to kids under 12 by playing Games, Mashhad, Iran. 2014-2016
 
-[Arithland]((http://arith.land/en))                   						                     2014-2016
-Work at Arithland Institute as a referee in high school competitions and also as a teacher for kids under 12 to teach them math by playing Games
-
-Mathematics Teacher                                     						                   2014-2015
-Teaching math to high school students in order to prepare them for university entrance exam, Kavosh Pre-University Institute, Mashhad, Iran
+High School Mathematics Teacher, Kavosh Pre-University Institute, Mashhad, Iran. 2014-2015
 
 ![image](https://github.com/user-attachments/assets/1119dcf3-9b5b-4969-ad08-8770b6d85b84)
 
