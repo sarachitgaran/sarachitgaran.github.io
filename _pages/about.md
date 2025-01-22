@@ -50,9 +50,10 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 
 # 💬 Talks
 <!-- Add slides -->
--Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, 23.-25. September 2024 
+-Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
 - *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the group of Biophysics and Pathophysiology in department of biomedical science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
