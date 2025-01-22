@@ -56,6 +56,26 @@ cer. Chitgaran et al., 1st International Conference on Human Genetics and Genomi
 
 # 💻 Teaching Experiences
 
+Bulk RNA-seq Data Analysis Workshops        				                              2021-2023
+Teaching RNA-seq analysis in a workshop, ACECR,  Mashhad, Iran.
+
+R programming language                          					   	                         2020-2023
+Teaching R programming language to students at Ferdowsi University of Mashhad, Mashhad, Iran.
+
+Mendeley Workshop                             				        	  	                   2018-2019
+Teaching Mendeley Reference Management Software to my peer master students in “Research Methodology and Experimental Design” class
+
+Olympiad Tutor                                              						               2018-2019
+Teaching biostatistics to students at Ferdowsi University of Mashhad, Mashhad, Iran.
+
+[Arithland]((http://arith.land/en))                   						                     2014-2016
+Work at Arithland Institute as a referee in high school competitions and also as a teacher for kids under 12 to teach them math by playing Games
+
+Mathematics Teacher                                     						                   2014-2015
+Teaching math to high school students in order to prepare them for university entrance exam, Kavosh Pre-University Institute, Mashhad, Iran
+
+![image](https://github.com/user-attachments/assets/1119dcf3-9b5b-4969-ad08-8770b6d85b84)
+
 
 # 💬 Talks
 <!-- Add slides -->
