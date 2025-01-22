@@ -60,7 +60,7 @@ redirect_from:
 -R programming language, Ferdowsi University of Mashhad, Mashhad, Iran. 2020-2023
 
 -Mendeley Workshop, Ferdowsi University of Mashhad, Mashhad, Iran. 2018-2019                           				        	  	                  
--[Arithland]((http://arith.land/en)) referee in high school competitions and teaching mathematics to kids under 12 by playing Games, Mashhad, Iran. 2014-2016
+-[Arithland](http://arith.land/en) referee in high school competitions and teaching mathematics to kids under 12 by playing Games, Mashhad, Iran. 2014-2016
 
 -High School Mathematics Teacher, Kavosh Pre-University Institute, Mashhad, Iran. 2014-2015
 
