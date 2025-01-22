@@ -65,7 +65,6 @@ Mendeley Workshop, Ferdowsi University of Mashhad, Mashhad, Iran. 2018-2019
 
 High School Mathematics Teacher, Kavosh Pre-University Institute, Mashhad, Iran. 2014-2015
 
-![image](https://github.com/user-attachments/assets/1119dcf3-9b5b-4969-ad08-8770b6d85b84)
 
 
 # 💬 Talks
