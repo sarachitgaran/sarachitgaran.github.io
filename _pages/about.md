@@ -34,21 +34,20 @@ redirect_from:
 
 # 📝 Publications 
 ## Journals
--Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
+-**Chitgaran S** , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
 
 -Barzegar _et al._ Aberrant expression of SPRING1 is involved in the progression of B-cell acute lymphoblastic leukemia. (Under review)
 
 -Barzegar _et al._ Identification of a Novel CSRP2 Transcript via Alternative Splicing Analysis in Acute Myeloid Leukemia: A case report. (Pending submission)
 
 ## Posters
--Long non-coding RNA _RP11-109D20.2_ as a novel biomarker in colorectal cancer, Chitgaran et al.,
-6th International Conference on Personalized Medicine and Functional Genomics (PMFG2022), Sidra
-Medicine, Doha, Qatar
--Profiling the expression of lncRNAs involved in colorectal cancer progression in search for suitable diagnostic biomarkers. Chitgaran et al., 1st International Conference on Human Genetics and Genomics,
-Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
--REG4, CEACAMS, OLFM4 are among the most recurrently fused genes in patients with colorectal can-
-cer. Chitgaran et al., 1st International Conference on Human Genetics and Genomics, Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
--United to Battle Against the Common Enemy. Chitgaran, S., Farshchian, M., 3rd International Nastaran Cancer Symposium (2017), Mashhad, Iran.
+-Long non-coding RNA _RP11-109D20.2_ as a novel biomarker in colorectal cancer, **Chitgaran, S.** _et al._, 6th International Conference on Personalized Medicine and Functional Genomics (PMFG2022), Sidra Medicine, Doha, Qatar
+
+-Profiling the expression of lncRNAs involved in colorectal cancer progression in search for suitable diagnostic biomarkers. **Chitgaran, S.** _et al._, 1st International Conference on Human Genetics and Genomics, Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
+
+-_REG4_, _CEACAMS_, _OLFM4_ are among the most recurrently fused genes in patients with colorectal cancer. **Chitgaran, S.** _et al._, 1st International Conference on Human Genetics and Genomics, Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
+
+-United to Battle Against the Common Enemy. **Chitgaran, S.**, Farshchian, M., 3rd International Nastaran Cancer Symposium (2017), Mashhad, Iran.
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
