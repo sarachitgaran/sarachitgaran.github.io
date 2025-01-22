@@ -33,7 +33,22 @@ redirect_from:
 
 
 # 📝 Publications 
-Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
+## Journals
+-Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN, Kamali F, Bahrami AR, Moghaddam Matin M, Farshchian M. Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer. Iran J Basic Med Sci 2025; 28
+
+-Barzegar _et al._ Aberrant expression of SPRING1 is involved in the progression of B-cell acute lymphoblastic leukemia. (Under review)
+
+-Barzegar _et al._ Identification of a Novel CSRP2 Transcript via Alternative Splicing Analysis in Acute Myeloid Leukemia: A case report. (Pending submission)
+
+## Posters
+-Long non-coding RNA _RP11-109D20.2_ as a novel biomarker in colorectal cancer, Chitgaran et al.,
+6th International Conference on Personalized Medicine and Functional Genomics (PMFG2022), Sidra
+Medicine, Doha, Qatar
+-Profiling the expression of lncRNAs involved in colorectal cancer progression in search for suitable diagnostic biomarkers. Chitgaran et al., 1st International Conference on Human Genetics and Genomics,
+Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
+-REG4, CEACAMS, OLFM4 are among the most recurrently fused genes in patients with colorectal can-
+cer. Chitgaran et al., 1st International Conference on Human Genetics and Genomics, Iranian Journal of Pediatric Hematology Oncology (2021), Yazd University, Yazd, Iran
+-United to Battle Against the Common Enemy. Chitgaran, S., Farshchian, M., 3rd International Nastaran Cancer Symposium (2017), Mashhad, Iran.
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
@@ -42,19 +57,19 @@ Chitgaran S , Mahmoudian RS, Khatami SS, Nasrabadi F, Soltani E, Emami Razavi AN
 # 💻 Teaching Experiences
 
 
+# 💬 Talks
+<!-- Add slides -->
+-Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024 
+
 # 🎖 Honors and Awards
 - *2021*, First place in "Thesis Presentation" National Contest, Shahid Beheshti University, Tehran, Iran.
 - *2018* Awarded from the National Organization of Educational Testing for the 23nd National Olympiad in the Field of Molecular Biology (Ranked 15th in National and 1st in Sectional Competition), Tehran, Iran.
 - *2017* Awarded from the National Organization of Educational Testing for the 22nd National Olympiad in the Field of Molecular Biology (Ranked 13th in National and 3rd in Sectional Competition), Tehran, Iran.
 
 
-# 💬 Talks
-<!-- Add slides -->
--Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024 
-
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
-- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the group of Biophysics and Pathophysiology in department of biomedical science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Biophysics and Pathophysiology group at the department of Biomedical Science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
 # 🧑‍🏫 Reference
