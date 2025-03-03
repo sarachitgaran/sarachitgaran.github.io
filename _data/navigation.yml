@@ -3,10 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research Interests"
+  - title: "Interests"
     url: "/#-Research interests"
 
-  - title: "Research Experiences"
+  - title: "Experiences"
     url: "/#-Research Experiences"
 
   - title: "Educations"
@@ -15,13 +15,13 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Teaching Experiences"
+  - title: "Teaching"
     url: "/#-Teaching Experiences"
 
   - title: "Talks"
     url: "/#-talks"
     
-  - title: "Honors and Awards"
+  - title: "Honors"
     url: "/#-honors-and-awards"
 
   - title: "News"
