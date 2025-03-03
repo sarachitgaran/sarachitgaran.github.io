@@ -6,16 +6,16 @@ main:
   - title: "Research Interests"
     url: "/#-Research interests"
 
-    - title: "Research Experiences"
+  - title: "Research Experiences"
     url: "/#-Research Experiences"
 
-      - title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
-    - title: "Teaching Experiences"
+  - title: "Teaching Experiences"
     url: "/#-Teaching Experiences"
 
   - title: "Talks"
