@@ -1,24 +1,31 @@
 # main links links
 main:
-  - title: "Research Interests"
-    url: "/#-Research interests"
-    
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Research Interests"
+    url: "/#-Research interests"
+
+    - title: "Research Experiences"
+    url: "/#-Research Experiences"
+
+      - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
+    - title: "Teaching Experiences"
+    url: "/#-Teaching Experiences"
+
+  - title: "Talks"
+    url: "/#-talks"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "News"
+    url: "/#-news"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-
+  - title: "References"
+    url: "/#-references"
