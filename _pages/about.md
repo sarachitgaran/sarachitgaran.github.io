@@ -1,12 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b82b9c3-03c5-4107-b0bf-bdb966f1ec8e)---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -80,7 +72,7 @@ redirect_from:
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
-- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Biophysics and Pathophysiology group at the department of Biomedical Science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Pathophysiology and Biophysics group at the department of Biomedical Sciences in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
 # 🧑‍🏫 Reference
