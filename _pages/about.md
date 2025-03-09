@@ -51,7 +51,8 @@ redirect_from:
 
 -United to Battle Against the Common Enemy. **Chitgaran, S.**, Farshchian, M., 3rd International Nastaran Cancer Symposium (2017), Mashhad, Iran.
 
-
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
 
 # 💻 Teaching Experiences
@@ -69,7 +70,7 @@ redirect_from:
 
 # 💬 Talks
 <!-- Add slides -->
-- Transcriptome Analysis of Tissue Resident Macrophages in Mouse Models, 34th Biophysics Workshop, Recent research on mitochondrial carriers in artificial and cellular systems, Vienna, Austria, February 2025.
+
 
 -Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024.
 
