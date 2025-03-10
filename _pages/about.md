@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b82b9c3-03c5-4107-b0bf-bdb966f1ec8e)---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # 🔍 Research Interests
 - Cancer Genomics
 - Spatial Transcriptomic
@@ -25,7 +23,7 @@ redirect_from:
 - Machine Learning
 
 # 🧬 Research Experiences
-- *2024.09 - 2025.03*, _UCP2_ expression in pro- and anti-inflammatory macrophages derived from different tissues in mouse models
+- *2024.09 - 2025.03*, UCP2 expression in pro- and anti-inflammatory macrophages derived from different tissues in mouse models
 - *2023.09 - 2024.02*, Bulk RNA-Seq Analysis of CGE (Common Garden Experiments)
 - *2019.01 - 2022.09*, Searching for Cancer Biomarker using  Transcriptomic Analysis
    
@@ -70,9 +68,7 @@ redirect_from:
 
 # 💬 Talks
 <!-- Add slides -->
-
-
--Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024.
+-Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024 
 
 # 🎖 Honors and Awards
 - *2021*, First place in "Thesis Presentation" National Contest, Shahid Beheshti University, Tehran, Iran.
@@ -82,13 +78,8 @@ redirect_from:
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
-- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Pathophysiology and Biophysics group at the department of Biomedical Sciences in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
+- *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Biophysics and Pathophysiology group at the department of Biomedical Science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
 # 🧑‍🏫 Reference
 Reference will be available upon request.
-
-
-
-
-
