@@ -82,7 +82,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA RP11-109D20.2: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
+- *2025.01*: &nbsp;🎉🎉 My master thesis paper "Heterogeneous expression of long noncoding RNA _RP11-109D20.2_: Insights into regulatory gene expression roles in colon cancer" is published at [IJBMS](https://ijbms.mums.ac.ir/article_25493.html)
 - *2024.09*: &nbsp;🎉🎉 I started my position as project assistant in the Biophysics and Pathophysiology group at the department of Biomedical Science in Veterinary Medicine Universitry of Vienna, Vienna, Austria.
  
 
