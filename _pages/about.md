@@ -71,7 +71,7 @@ redirect_from:
 
 # 💬 Talks
 <!-- Add slides -->
-- UCP2 expression in tissure resident macrophages using bulk RNA-Seq in mouse models, 34th Biophysics Workshop, Recent research on mitochondrial carriers in artificial and cellular systems, Vienna, Austria, February 2025.
+- UCP2 expression in tissue resident macrophages using bulk RNA-Seq in mouse models, 34th Biophysics Workshop, Recent research on mitochondrial carriers in artificial and cellular systems, Vienna, Austria, February 2025.
   
 - Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024.
 
