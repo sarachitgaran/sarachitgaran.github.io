@@ -70,10 +70,16 @@ redirect_from:
 
 
 # 💬 Talks
-<!-- Add slides -->
+- Transcriptomic analysis of A20 knock-out lung adenocarcinoma in mouse model (KPA vs. KP), Nuclear Medicine Research Club, AKH, Vienna, Austria, November 2025
+
+- UCP2 expression in tissue resident macrophages using bulk RNA-Seq in mouse models, XXXIV Biophysics Workshop, Recent Research on Mitochondrial Carriers in Artificial and Cellular Systems, Vienna, Austria, February 2025.
   
+- Profiling of lncRNA expression in patients with colorectal cancer by transcriptome analysis in search for suitable diagnostic marker, XXXIII Biophysics Workshop, Membranes and Membrane Proteins: New Insights and Method, Strobl, Austria, September 2024.
+
+# 🎖 Honors and Awards
 
 - *2021*, First place in "Thesis Presentation" National Contest, Shahid Beheshti University, Tehran, Iran.
+- *2018* Awarded from the National Organization of Educational Testing for the 23nd National Olympiad in the Field of Molecular Biology (Ranked 15th in National and 1st in Sectional Competition), Tehran, Iran.
 - *2017* Awarded from the National Organization of Educational Testing for the 22nd National Olympiad in the Field of Molecular Biology (Ranked 13th in National and 3rd in Sectional Competition), Tehran, Iran.
 
 
