@@ -24,8 +24,8 @@ redirect_from:
 - Machine Learning
 
 # 🧬 Research Experiences
+- *2025.09 - 2026.03*, Transcriptomic analysis of A20 knock out Lung cancer in mouse models, Nuclear Medicine Division, Medical University of Vienna [https://radiologie-nuklearmedizin.meduniwien.ac.at/unsere-abteilungen/klinische-abteilung-fuer-nuklearmedizin/wissenschaft-und-forschung/experimentelle-nuklearmedizin/](url)
 - *2025.06 - 2025.09* Endotypy: Building a robust endotyping pipeline, LBI for Network Medicine
-- *2025.05 - 2025.06*, Transcriptomic analysis of A20 knock out Lung cancer in mouse models, Nuclear Medicine Division, Medical University of Vienna
 - *2024.09 - 2025.03*, UCP2 expression in pro- and anti-inflammatory macrophages derived from different tissues in mouse models, Department of Pathophysiology and Biophysics, Veterinary Medicine University
 - *2023.09 - 2024.02*, Bulk RNA-Seq Analysis of CGE, PopGen Institute, Veterinary Medicine University
 - *2019.01 - 2022.09*, Searching for Cancer Biomarker using  Transcriptomic Analysis, Ferdowsi University of Mashhad
